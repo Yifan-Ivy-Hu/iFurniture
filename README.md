@@ -2,9 +2,12 @@
 
 This is an online furniture purchasing website built on React, Redux and Firebase
 
-## Demo
+## Link
 
 [See website here](https://ifurniture-react.herokuapp.com)
+
+## Demo
+
 ![homepage](/homepage.png)
 ![checkout](/checkout.png)
 
